@@ -1,1 +1,14 @@
-# Programowanie rownolegle i rozproszone
+Programowanie rownolegle i rozproszone
+
+Zad. 1
+Na podstawie symulatora lotniska wykonany symulator traktorów, które podczas pracy na wielu wątkach obrazuje wykorzystanie paliwa, co 1 sekundę nasz traktor zużywa 1 litr paliwa.
+Po osiągnieciu 0 liczby paliwa, samochód zostanie zatrzymany, przy 50 litrach paliwa traktor jest tankowany, jest również ograniczenie tankowania do 15 razy, po nich traktor jest zatrzymany.
+
+Zad. 2
+W zadaniu przedstawione zgodnie z założeniem Monte Carlo, obliczanie koła wpisanego w kwadrat o bokach 2x2, dzięki czemu uzyskujemy przyblizenie wartości liczby pi.
+
+Zad. 3
+Program przedstawia utworzenie negatywu z dowolnego obrazu, opierając nasz program na wielu wątkach.
+
+Zad. 4
+Program przedstawia utworzenie fraktala Julii, opierając również nasz program na wielu wątkach, co jak w przypadku negatywu znacznie skraca czas.
